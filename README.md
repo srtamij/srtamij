@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamijuddin Mohammed</h1>
+<h1 align="center">Hi 👋, I'm Tamijuddin Mohammed <img  alt=" " width="50px" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif"></h1>
 <h3 align="center">A passionate Embedded Engineer from India</h3>
 <img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srtamij&label=Profile%20views&color=0e75b6&style=flat" alt="srtamij" /> </p>
